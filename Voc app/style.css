@@ -1,0 +1,75 @@
+body {
+    background-color: lightblue; 
+  }
+
+
+#button{
+  position: absolute;
+  top: 32%;  
+  left: 680px;
+  width: 170px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(162, 162, 162);
+  font-size: 1em;
+  
+  color: black;
+  border-width: 3px;
+  
+  
+  
+}
+
+#button:active{
+  background-color: rgb(126, 125, 125);
+  border-color: aqua;
+  color: aqua;
+}
+
+
+#voctest{
+
+  width: 140px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(162, 162, 162);
+  font-size: 1.6em;
+  color: black;
+  border-width: 3px;
+  
+  
+  
+}
+
+
+.main{
+  
+  top: 32%;  
+  left: 680px;
+  
+}
+
+.btn{
+ 
+  
+  width: 170px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(162, 162, 162);
+  font-size: 1em;
+  
+  color: black;
+  border-width: 3px;
+}
+
+#vocInput{
+      
+        width: 170px;
+        height: 40px;
+        
+        border: none;
+        background-color: rgb(162, 162, 162);
+        font-size: 1em;
+        color: rgb(0, 0, 0);
+}
+
